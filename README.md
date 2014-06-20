@@ -1,6 +1,8 @@
 Twinkbase
 =========
 
+I will be taking a break from this project well I learn IOS development. I do plan on coming back to this asap and finishing this project.
+
 This is a website that hold a database of items from the game World Of Warcraft. This database is used to power a tool that will allow you to find your next item upgrade no matter of level.
 
 
